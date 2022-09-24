@@ -1,5 +1,5 @@
 # Instruções de Uso da Máquina de Busca
-A máquina implementada utiliza os arquivos dentro dos arquivos DocumentosBASE.rar, initConfigFILES.rar e programFILES.rar.
+A máquina implementada utiliza os arquivos de texto dentro dos arquivos DocumentosBASE.rar, initConfigFILES.rar e programFILES.rar.
 
  Descrição do conteudo dos arquivos de extensão ".rar":
 
