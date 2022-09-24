@@ -9,7 +9,7 @@ A máquina implementada utiliza os arquivos de texto dentro dos arquivos Documen
   
     - ConfigOK.txt: Configuração exclusiva para a coletânia de arquivos que contenham o nome do arquivo
                     composto exclusivamente de numeros e sem a extensão ".txt";
-                    Possui erros na abertura dos arquivos colocados propositalmente para o teste de funções da máquina de busca;
+                    Possui erros na abertura dos arquivos que foram colocados propositalmente para o teste de funções da máquina de busca;
                     
     - ConfigNOK.txt: Configuração que depende dos arquivos existentes dentro de programFILES.rar;
                      Assim como em ConfigOK.txt, possui erros na abertura dos arquivos que foram colocados propositalmente para o teste
